@@ -1,4 +1,4 @@
-const RADIO_NAME = 'Jailson Webradio';
+const RADIO_NAME = 'Radio Proyeccion';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/atw3gs6canzuv';
