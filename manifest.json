@@ -1,6 +1,6 @@
 {
-  "name": "Jailson WebRadio",
-  "short_name": "Jailson Radio",
+  "name": "Radio Proyeccion",
+  "short_name": "Radio Proyeccion",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
