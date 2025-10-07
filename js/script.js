@@ -1,7 +1,7 @@
 const RADIO_NAME = 'Radio Proyeccion';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/atw3gs6canzuv';
+const URL_STREAMING = 'https://sapircast.caster.fm:16972/H2dXT';
 
 // You can find the mount point in the Broadcast Settings.
 // To generate the Zeno Radio API link from the mount point,
